@@ -1,0 +1,9 @@
+.phone {
+
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    padding: 0 20PX;
+    border-radius: 20px;
+    width: 250px;
+}
